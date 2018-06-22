@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/09/21 17:32:51.000.077,=C:\Users\Nicolas\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2017/12/04 20:09:02.000.660,C:\Users\Nicolas\Documents\Embarcadero\Studio\Projets\Project1.dproj=D:\Etude\DUT\S1\CivilizationMinimal\CivilizationMinimal.dproj</Transaction>
+    <Transaction>2017/12/04 20:10:43.000.167,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\CivilizationMinimal\UnitInit.pas</Transaction>
+    <Transaction>2017/12/04 20:10:43.000.184,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\CivilizationMinimal\UnitMath.pas</Transaction>
+    <Transaction>2017/12/04 20:10:43.000.117,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\CivilizationMinimal\GestionEcran.pas</Transaction>
+    <Transaction>2017/12/04 20:10:43.000.252,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\CivilizationMinimal\UnitUpdate.pas</Transaction>
+    <Transaction>2017/12/04 20:10:43.000.201,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\CivilizationMinimal\UnitMilitaire.pas</Transaction>
+    <Transaction>2017/12/04 20:10:43.000.133,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\CivilizationMinimal\UnitAffichage.pas</Transaction>
+    <Transaction>2017/12/04 20:10:43.000.268,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\CivilizationMinimal\UnitVille.pas</Transaction>
+    <Transaction>2017/12/04 20:10:43.000.218,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\CivilizationMinimal\UnitRecord.pas</Transaction>
+    <Transaction>2017/12/04 20:10:43.000.150,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\CivilizationMinimal\UnitGestion.pas</Transaction>
+    <Transaction>2017/12/20 10:20:01.681,\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\nf807942\S1\M1102-Algorithmique\Projet\CivilizationMinimal\UnitMath.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
